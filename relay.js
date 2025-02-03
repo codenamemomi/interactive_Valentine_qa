@@ -26,3 +26,5 @@ function NoClick(){
 function YesClick(){
     window.location.href = 'yes.html';
 }
+
+window.alert(`I can see YOU baby`);
