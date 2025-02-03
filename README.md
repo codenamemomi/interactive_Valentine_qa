@@ -24,6 +24,13 @@ To set up this project locally, follow these steps:
 - Click the "YES" button to proceed to the next page.
 - Click the "NO" button to see a humorous response.
 
+## Deployment on Render
+To deploy this application on Render, follow these steps:
+1. Create a Render account if you don't have one.
+2. Create a new web service and link it to your repository.
+3. Ensure that the build command is set correctly (if necessary).
+4. Set any required environment variables in the Render dashboard.
+5. Deploy the application and verify that it works as expected.
+
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
-
